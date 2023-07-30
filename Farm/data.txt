@@ -1,0 +1,7 @@
+Dog | Sharik | qqq | 2019-02-02
+Cat | Barsik | ccc | 2019-02-02
+Horse | Plotva | jjjj | 2020-06-06
+Donkey | Ia | ggg, mmmm | 1999-09-09
+Camel | Zxc | bbb, ppp | 2010-10-10
+Hamster | Ham | uuu | 2022-10-10
+Dog | lll | ghj | 2020-05-05
